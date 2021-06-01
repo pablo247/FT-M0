@@ -1,3 +1,13 @@
+body {
+	background-image: url(https://thumbs.dreamstime.com/b/coffee-background-11487150.jpg);background-repeat: no-repeat;background-size: cover;
+	display: flex;
+	flex-direction: column;
+}
+
+div {
+	margin: 0 auto;
+}
+
 h1 {
 	color: #421908;
 }
@@ -12,6 +22,20 @@ img {
 	height: 600px;
 	padding: 50px;
 	width: 500px;
+}
+
+#thirdDiv ul {
+	position: relative;height: 600px;
+}
+
+#thirdDiv li:first-child {
+	position: absolute;
+	top: 0;
+}
+
+#thirdDiv li:last-child {
+	position: absolute;
+	bottom: 0;
 }
 
 #spanId {
