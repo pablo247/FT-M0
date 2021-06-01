@@ -1,0 +1,12 @@
+body > div {
+	border-bottom: 2px solid rgb(206, 110, 0);
+	margin: 70px auto;
+	padding-bottom: 40px;
+	width: 800px;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
