@@ -1,0 +1,1 @@
+Arrays: Es un conjunto de variables ordenadas y a cada variable se le puede asignar un valor diferente
