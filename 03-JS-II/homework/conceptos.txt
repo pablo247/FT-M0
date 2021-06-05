@@ -1,0 +1,3 @@
+for: Es una estructura de control para realizar repeticiones
+
+&&, ||, !: Son operadores boleanos que al añadir boleanos u operadores logicos nos dara como resultado un boleano
